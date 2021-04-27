@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Hola, 
+somos un grupo de amantes del software que actualmente estamos lanzando 
+<a href="https://saasradar.net/">Saasradar</a>, una web de ofertas de software, reviews y tutoriales. Tratamos temas técnicos de los que somos muy fanáticos, como las <a href="https://saasradar.net/blog/mejores-gestores-bases-de-datos-relacionales/">Bases de datos</a>, la <a href="https://saasradar.net/blog/creacion-bot-telegram/">creación de herramientas con Python</a> o las <a href="https://saasradar.net/blog/herramientas-prueba-de-software/">pruebas de software</a>. 
+Si tienes cualquier duda o mejor aún, quieres participar, no dudes en contactarnos. 
 <!--
 **Saasradar/saasradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
